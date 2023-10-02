@@ -5,7 +5,7 @@ import Link from 'next/link'
 export default function Header() 
 {
     return (
-        <header className='h-20 bg-black text-white flex justify-around items-center font-medium fixed w-full'>
+        <header className='h-20 text-white flex justify-around items-center font-medium fixed w-full '>
             <div >
                 <SiCocacola className='h-24 w-24 m-8'/> 
             </div>
