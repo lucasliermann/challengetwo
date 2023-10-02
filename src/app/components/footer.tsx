@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import {BsFacebook} from 'react-icons/Bs'
-import {AiFillTwitterCircle} from 'react-icons/Ai'
+import {BsFacebook} from 'react-icons/bs'
+import {AiFillTwitterCircle} from 'react-icons/ai'
 import {SiYoutubemusic} from 'react-icons/si'
 
 export default function Footer() {
