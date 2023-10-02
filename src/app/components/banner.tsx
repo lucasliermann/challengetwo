@@ -9,6 +9,5 @@ export default function Banner() {
                 <p>#CocaColaCreations</p>
             </div>
         </div>
-        
     )
 }
